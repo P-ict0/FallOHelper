@@ -9,8 +9,7 @@ Automatic fall detection device using:
 -Micro SD card reader
 -2 Buttons
 -1 LED
--SIM800L Module (NOT IN USE)
-
+-SIM800L Module (NOT IN USE bc of power issues)
 
 */
 
