@@ -1,4 +1,5 @@
 /*
+
 Author: Rodrigo Martín Núñez
 Date: 28 October 2021
 
@@ -9,6 +10,7 @@ Automatic fall detection device using:
 -2 Buttons
 -1 LED
 -SIM800L Module (NOT IN USE bc of power issues)
+
 */
 
 #include <Wire.h>
