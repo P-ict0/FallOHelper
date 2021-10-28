@@ -10,6 +10,8 @@ Automatic fall detection device using:
 -2 Buttons
 -1 LED
 -SIM800L Module (NOT IN USE)
+
+
 */
 
 #include <Wire.h>
