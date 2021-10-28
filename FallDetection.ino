@@ -1,3 +1,18 @@
+/*
+
+Author: Rodrigo Martín Núñez
+Date: 28 October 2021
+
+Automatic fall detection device using:
+-Arduino Nano microcontroller
+-Gyrosensor/Accelerometer MPU6050
+-Micro SD card reader
+-2 Buttons
+-1 LED
+-SIM800L Module (NOT IN USE)
+
+*/
+
 #include <Wire.h>
 #include <MPU6050_light.h>
 #include <SPI.h>
