@@ -1,6 +1,8 @@
 /*
 
 Author: Rodrigo Martín Núñez
+Computer Science student from the Technical University of Eindhoven
+
 Date: 28 October 2021
 
 Automatic fall detection device using:
